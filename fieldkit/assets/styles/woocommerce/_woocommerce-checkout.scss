@@ -1,4 +1,10 @@
 .woocommerce-checkout {
+  a.button,
+  button.button {
+    font-size: 18px;
+    line-height: 24px;
+    padding: 10px 20px;
+  }
   input {
     border-bottom: 1px solid $color-gray-3;
     padding-bottom: 5px;
